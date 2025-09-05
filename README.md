@@ -22,4 +22,4 @@ Comandos que poderão ser utilizados:
   ```
   3. Prosseguir com a execução do deployment de acordo com o que o owner definiu.
 
-Diagrama completo no /images.
+Diagrama completo no diretório images.
