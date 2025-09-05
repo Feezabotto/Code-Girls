@@ -17,7 +17,7 @@ Comandos que poderão ser utilizados:
   1. Para acesso a ec2 via cli, é necessário a chave pem. Em caso da console, basta acessar o serviço da ec2 e uma outra alternativa de login é utilizar o session manager.
   2. Rodar o comando para copiar o arquivo do s3 para o ec2.
   ```
-  #aws s3 cp s3://nome-do-bucket/nome-do-arquivo /diretório/
+  aws s3 cp s3://nome-do-bucket/nome-do-arquivo /diretório/
 
   ```
   3. Prosseguir com a execução do deployment de acordo com o que o owner definiu.
