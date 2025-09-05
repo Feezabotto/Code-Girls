@@ -6,7 +6,7 @@ Descrição: O diagrama foi separado em dois grupos, devs e sysadmins onde ambos
 _____________________________________________________________________________________________________________________
 Comandos que poderão ser utilizados:
 
-  # Equipe dev: 
+  # Equipe Dev: 
   1. Caso utilize a cli:
   ```
     aws s3 cp /diretório/do/arquivo s3://nome-do-bucket/
