@@ -1,6 +1,6 @@
 # Code-Girls
 
-Título: Primeiro desafio do curso Code Girl da Dio.
+Primeiro desafio do curso Code Girl da Dio.
 
 Descrição: O diagrama foi separado em dois grupos, devs e sysadmins onde ambos realizam o acesso a console/cli. Cada grupo possui suas permissões definidas pelo IAM, onde o time de dev possui apenas acesso aos buckets s3, assim conseguem realizar o upload do arquivo para novo deploy nas máquinas ec2. Já o time de sysadmins, possui acesso as instâncias ec2 que foram previamente configuradas com uma role que permita o acesso da ec2 nos buckets s3. Um EBS foi configurado e atachado na instância para gravar os arquivos de deployment.
 _____________________________________________________________________________________________________________________
